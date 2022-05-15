@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on becoming a front and back end developer.
 - 🌱 I’m currently learning to become a front and back end developer.
 - 📫 How to reach me: kevin92142@gmail.com
-- ⚡ Fun fact: I can also speak Mandarin and Japanese.
+- ⚡ Fun fact: I also speak Mandarin and Japanese.
 
