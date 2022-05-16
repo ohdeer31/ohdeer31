@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working on becoming a front and back end developer.
-- 🌱 I’m currently learning to become a front and back end developer.
+- 🔭 I’m currently working on becoming a competitive full-stack developer.
+- 🌱 I’m currently learning to become a competitive full-stack developer.
 - 📫 How to reach me: kevin92142@gmail.com
 - ⚡ Fun fact: I also speak Mandarin and Japanese.
 
